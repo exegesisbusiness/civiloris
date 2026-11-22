@@ -1,0 +1,88 @@
+{
+  "drafts": [
+    {
+      "slug": "property-due-diligence",
+      "title": "Property due diligence before a transaction",
+      "category": "Transactions and title",
+      "summary": "A practical overview of the questions that help organize a review of property records and contractual risk.",
+      "related": [
+        "zoning-land-use",
+        "land-due-diligence"
+      ],
+      "sections": [
+        {
+          "title": "Define the transaction",
+          "body": "The information required for an acquisition, lease or development arrangement depends on the rights being acquired, the parties involved and the intended use. Defining the transaction helps establish a meaningful scope of review."
+        },
+        {
+          "title": "Review the documentary record",
+          "body": "Ownership history, relevant conveyance documents, existing interests and available property records should be considered together. Gaps or inconsistencies in the record may require further investigation."
+        },
+        {
+          "title": "Consider use and restrictions",
+          "body": "A property’s legal title and its permissible use are distinct questions. Planning restrictions, contractual obligations and other applicable requirements may affect whether the intended use can proceed."
+        },
+        {
+          "title": "Translate findings into decisions",
+          "body": "The review can inform conditions precedent, contractual protections and requests for additional documents. The appropriate response depends on the facts, jurisdiction and allocation of risk between the parties."
+        }
+      ]
+    },
+    {
+      "slug": "planning-and-development",
+      "title": "Reading land use in its development context",
+      "category": "Planning and regulation",
+      "summary": "How planning designations, site conditions and commercial objectives interact in property development.",
+      "related": [
+        "building-regulations",
+        "regulatory-approvals"
+      ],
+      "sections": [
+        {
+          "title": "Identify the relevant framework",
+          "body": "Planning controls are specific to a location and may operate at more than one level. The relevant plan, authority and applicable instruments should be identified before drawing conclusions about development potential."
+        },
+        {
+          "title": "Distinguish use from feasibility",
+          "body": "A use that is permissible in principle may still depend on physical site conditions, access, infrastructure or development controls. Legal permissibility does not by itself establish practical or commercial feasibility."
+        },
+        {
+          "title": "Consider the sequence of decisions",
+          "body": "Development may involve multiple decisions, documents and approvals. Understanding dependencies helps identify which questions need to be resolved before commitments are made."
+        },
+        {
+          "title": "Keep the context current",
+          "body": "Planning instruments and their interpretation can change. A site-specific review should rely on the applicable current materials and the facts of the proposed development."
+        }
+      ]
+    },
+    {
+      "slug": "joint-development-agreements",
+      "title": "Questions to consider in joint development arrangements",
+      "category": "Development and agreements",
+      "summary": "A framework for examining contributions, responsibilities and change in a development agreement.",
+      "related": [
+        "development-feasibility",
+        "urban-planning"
+      ],
+      "sections": [
+        {
+          "title": "Establish the contributions",
+          "body": "A development arrangement may involve land, capital, technical expertise and project management. The agreement should make clear what each party is expected to contribute and when."
+        },
+        {
+          "title": "Clarify obligations",
+          "body": "Responsibilities for documentation, approvals, financing and delivery need to be understood alongside the project’s commercial assumptions. Unclear dependencies can create difficulties as a project progresses."
+        },
+        {
+          "title": "Consider changes and delays",
+          "body": "Development takes place over time, and costs, market conditions or project requirements may change. Mechanisms for variation, delay and decision-making can help the parties address uncertainty."
+        },
+        {
+          "title": "Understand the exit framework",
+          "body": "The agreement should be reviewed in the context of completion, default, termination and dispute resolution. The relevance of particular provisions depends on the nature of the arrangement and applicable law."
+        }
+      ]
+    }
+  ]
+}

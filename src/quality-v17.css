@@ -1,0 +1,15 @@
+/* V17: shared accessibility safeguards, no brand redesign */
+#root>.skip{position:fixed;top:12px;left:12px;z-index:10000;transform:translateY(-200%);padding:14px 20px;background:#fff;color:#172636;border:2px solid #172636;text-decoration:underline;max-width:calc(100vw - 24px)}
+#root>.skip:focus{top:12px;left:12px;transform:none}
+#main:focus{outline:none}
+#root :is(a,button,input,select,textarea,summary,[tabindex]):focus-visible{outline:2px solid currentColor;outline-offset:4px;box-shadow:0 0 0 2px #fff,0 0 0 4px #172636}
+#root .n16-toggle{min-width:44px;min-height:44px}
+#root .n16-footer a{display:inline-block;min-height:24px}
+#root .cv15-fields>*{min-width:0}
+#root .cv15-form :is(input:not([type=checkbox]),textarea,select){max-width:100%;min-width:0;font-size:max(16px,1rem)}
+#root .cv15-form button{min-height:44px}
+#root .cv15-consent input{flex-shrink:0}
+#root .n16-office address,#root .cv15-details a{overflow-wrap:anywhere}
+#root img{max-width:100%}
+@media(max-width:760px){#root .n16-nav>a{min-height:44px}#root .n16-header .n16-brand{min-width:0}#root .n16-header .n16-contact{max-width:100%}#root .cv15-fields{grid-template-columns:minmax(0,1fr)}}
+@media(prefers-reduced-motion:reduce){html:focus-within{scroll-behavior:auto!important}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}

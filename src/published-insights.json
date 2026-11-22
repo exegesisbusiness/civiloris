@@ -1,0 +1,20 @@
+{
+  "themes": [
+    {
+      "title": "Transactions and title",
+      "description": "Property rights, agreements and the documentary record.",
+      "path": "land-due-diligence"
+    },
+    {
+      "title": "Planning and regulation",
+      "description": "Land use, statutory frameworks and development controls.",
+      "path": "building-regulations"
+    },
+    {
+      "title": "Development and agreements",
+      "description": "Development relationships, obligations and commercial context.",
+      "path": "development-feasibility"
+    }
+  ],
+  "articles": []
+}

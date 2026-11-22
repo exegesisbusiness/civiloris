@@ -1,0 +1,25 @@
+import {useEffect,useState} from 'react';
+import {ArrowUpRight,Menu,X} from 'lucide-react';
+import c from './config.json';
+import expertise from './expertise-v13.json';
+import published from './published-insights.json';
+import {Mark} from './Brand';
+import './navigation-v16.css';
+const a=c.key==='avenor';
+const base=import.meta.env.BASE_URL;
+const href=(path='')=>base+path+(path?'/':'');
+type Entry=[string,string];
+const firm:Entry[]=[['about',a?'Our firm':'The firm'],['team',a?'Our people':'People'],['insights',a?'Insights':'Perspectives'],['careers','Careers']];
+const services:Entry[]=c.services.map(s=>[s.slug,s.title]);
+const sectors:Entry[]=Object.entries(expertise.pages).filter(([p])=>p.startsWith('investment-strategies/')).map(([p,v])=>[p,v.title]);
+const work:Entry[]=a?[['portfolio','Portfolio'],['investor-relations','Investor relations']]:[['services','Our practice'],['experience','Professional scope']];
+const primary:Entry[]=a?[['about','Our firm'],['investment-strategies','Strategies'],['asset-management','Asset management'],['team','People'],['insights','Insights']]:[['about','The firm'],['services','Our practice'],['team','People'],['insights','Perspectives']];
+const legal:Entry[]=[['privacy','Privacy'],['disclaimer','Disclaimer']];
+function active(path:string,route:string){return path===route||(path==='team'&&route.startsWith('team/'))||(path==='insights'&&route.startsWith('insights/'))||(path==='investment-strategies'&&(route.startsWith('investment-strategies/')||route==='investment-philosophy'||route==='portfolio'))||(path==='services'&&(services.some(([p])=>p===route)||route==='experience'))||(path==='contact'&&route==='investor-relations');}
+function Links({items}:{items:Entry[]}){return <ul className="n16-links">{items.map(([p,t])=><li key={p}><a href={href(p)}>{t}</a></li>)}</ul>}
+function Brand(){return <a href={href()} className="law-brand n16-brand" aria-label="Civantis home"><Mark/><span>Civantis<small>REAL ESTATE &amp; REGULATORY LAW</small></span></a>;}
+export function HeaderV16({route}:{route:string}){const [open,setOpen]=useState(false);useEffect(()=>{const close=(e:KeyboardEvent)=>{if(e.key==='Escape'&&open){setOpen(false);document.getElementById('n16-menu')?.focus();}};window.addEventListener('keydown',close);return()=>window.removeEventListener('keydown',close)},[open]);return <header className={'n16-header '+(a?'n16-a':'n16-c')}><Brand/><button type="button" id="n16-menu" className="n16-toggle" aria-expanded={open} aria-controls="n16-nav" aria-label={open?'Close navigation':'Open navigation'} onClick={()=>setOpen(!open)}>{open?<X aria-hidden="true"/>:<Menu aria-hidden="true"/>}</button><nav id="n16-nav" className={'n16-nav '+(open?'n16-open':'')} aria-label="Main navigation">{primary.map(([p,t])=><a key={p} href={href(p)} className={active(p,route)?'n16-active':''} aria-current={p===route?'page':undefined}>{t}</a>)}<a className="n16-contact" href={href('contact')} aria-current={route==='contact'?'page':undefined}>{a?'Contact':'Correspondence'} <ArrowUpRight size={15} aria-hidden="true"/></a></nav></header>}
+function FooterGroup({title,items}:{title:string;items:Entry[]}){const [compact,setCompact]=useState(()=>window.matchMedia('(max-width:760px)').matches);useEffect(()=>{const mq=window.matchMedia('(max-width:760px)');const update=()=>setCompact(mq.matches);update();if(mq.addEventListener){mq.addEventListener('change',update);return()=>mq.removeEventListener('change',update);}mq.addListener(update);return()=>mq.removeListener(update);},[]);return compact?<details className="n19-footer-group"><summary>{title}</summary><Links items={items}/></details>:<div><h3>{title}</h3><Links items={items}/></div>;}
+function Office(){const email=c.email.trim(),phone=c.phone.trim(),address=c.address.trim();return <div className="n16-office"><h3>{a?'Office':'Correspondence'}</h3>{address&&<address>{address}</address>}{phone&&<a href={'tel:'+phone.replace(/[^+\d]/g,'')}>{phone}</a>}{email&&!/\.(example|invalid|test|localhost)$/i.test(email)&&<a href={'mailto:'+email}>{email}</a>}<a href={href('contact')} className="n16-office-link">Contact {c.name} <ArrowUpRight size={15} aria-hidden="true"/></a></div>}
+export function FooterV16(){return <footer className={'n16-footer '+(a?'n16-a':'n16-c')}><div className="n16-footer-intro"><Brand/><p>{c.tagline}</p></div><div className="n16-footer-grid"><FooterGroup title={a?'The firm':'Civantis'} items={[...firm,...work]}/><FooterGroup title={a?'Investment approach':'Practice areas'} items={services}/>{a&&<FooterGroup title="Property sectors" items={sectors}/>}<Office/></div><div className="n16-bottom"><span>© {new Date().getFullYear()} {c.name}</span><Links items={legal}/></div></footer>}
+export function pageTitleV16(route:string,fallback:string){const pages=expertise.pages as Record<string,{title:string}>;const items=published.articles as {slug:string;title:string}[];return (route==='insights'?(a?'Insights':'Perspectives'):pages[route]?.title||items.find(x=>'insights/'+x.slug===route)?.title||fallback)+' | '+c.name;}

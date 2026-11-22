@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title">
+<title id="title">Conceptual property and legal process illustration for Understand the dispute before the response</title>
+<defs><pattern id="draft" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d3d0c6" stroke-width=".7"/></pattern></defs>
+<rect width="1200" height="675" fill="#f0eee8"/><rect x="0" y="0" width="810" height="675" fill="url(#draft)"/>
+<text x="70" y="78" fill="#746b3f" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">CIVANTIS / PROPERTY + LAW</text>
+<path d="M70 105H745" stroke="#aca99e" stroke-width="1"/>
+<g transform="rotate(-7 400 375)"><rect x="165" y="235" width="210" height="165" fill="#edeae2" stroke="#515b54" stroke-width="2"/><rect x="413" y="250" width="210" height="165" fill="#dedbd0" stroke="#515b54" stroke-width="2"/><g transform="translate(191,261)"><circle r="7" fill="#bcab54"/><path d="M12 0h65" stroke="#827c60" stroke-width="1"/></g><g transform="translate(439,276)"><circle r="7" fill="#bcab54"/><path d="M12 0h65" stroke="#827c60" stroke-width="1"/></g></g>
+<path d="M100 555 315 505 487 568 707 491" fill="none" stroke="#c7b451" stroke-width="8" opacity=".45"/>
+<path d="M95 578H748" fill="none" stroke="#aaa699" stroke-width="1"/>
+<text x="718" y="615" text-anchor="end" fill="#756b56" font-size="13" letter-spacing="2">ILLUSTRATIVE PROPERTY / 08</text>
+<rect x="810" width="390" height="675" fill="#e4e0d5"/>
+<rect x="810" y="0" width="390" height="14" fill="#c7ac43"/>
+<path d="M862 104H1144" stroke="#9a978d" stroke-width="1"/>
+<text x="862" y="84" fill="#675a32" font-size="14" letter-spacing="3">ISSUES TO CONSIDER</text>
+<text x="862" y="180" fill="#242923" font-family="Georgia,serif" font-size="30">Property / Context</text>
+<g transform="translate(870,274)"><text x="0" y="0" fill="#403d33" font-size="18" letter-spacing="1">EVIDENCE</text><path d="M0 18H235" stroke="#b7b4a9" stroke-width="1"/></g><g transform="translate(870,353)"><text x="0" y="0" fill="#403d33" font-size="18" letter-spacing="1">OBLIGATIONS</text><path d="M0 18H235" stroke="#b7b4a9" stroke-width="1"/></g><g transform="translate(870,432)"><text x="0" y="0" fill="#403d33" font-size="18" letter-spacing="1">OPTIONS</text><path d="M0 18H235" stroke="#b7b4a9" stroke-width="1"/></g>
+<path d="M862 583H1144" stroke="#9a978d" stroke-width="1"/>
+<text x="862" y="615" fill="#6f6c62" font-size="13" letter-spacing="2">DOCUMENTS · RIGHTS · DECISIONS</text>
+</svg>

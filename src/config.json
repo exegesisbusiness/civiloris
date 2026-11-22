@@ -1,0 +1,557 @@
+{
+  "key": "civantis",
+  "name": "Civantis",
+  "legalName": "Civantis",
+  "tagline": "Land. Regulation. Resolution.",
+  "industry": "Real Estate & Regulatory Law",
+  "hero": "Property is complex.\nYour counsel should be clear.",
+  "intro": "A focused legal practice at the intersection of Indian real estate, development and regulation.",
+  "email": "",
+  "phone": "+91 11 4152 8374",
+  "address": "Floor 3, Barakhamba Road, Connaught Place, New Delhi, Delhi 110001, India",
+  "cin": "",
+  "leadership": [
+    {
+      "name": "Aditi Malhotra",
+      "slug": "aditi-malhotra",
+      "role": "Managing Partner | Real Estate, Investment & Development",
+      "initials": "AM",
+      "summary": "Aditi advises on the legal and commercial dimensions of real estate acquisitions, development arrangements and property investments. Her practice integrates transaction structuring, regulatory assessment and contractual risk allocation.",
+      "bio": "Aditi's professional interests centre on the relationship between land, capital and development. She approaches real estate transactions as decisions that establish the financial, legal and institutional foundations of a development. Her career evolved from property documentation and transaction execution towards complex acquisitions, development agreements and commercial arrangements. In 2018, she co-founded Civantis to integrate legal diligence, development feasibility and commercial decision-making. As managing partner, she oversees the firm's strategic direction and coordinates multidisciplinary property matters, emphasising early risk identification and alignment between contractual obligations and commercial objectives. She also holds an MBA from the Indian Institute of Management Bangalore (IIMB) and a PhD in Economics from the University of Pennsylvania (UPenn).",
+      "experience": 18,
+      "startYear": 2008,
+      "joinYear": 2018,
+      "education": [
+        "B.A. LL.B. (Hons.) — National Law University, Jodhpur",
+        "Master of Business Administration (MBA) — Indian Institute of Management Bangalore (IIMB)",
+        "Doctor of Philosophy (PhD) in Economics — University of Pennsylvania (UPenn)"
+      ],
+      "career": [
+        {
+          "period": "2008–2012",
+          "title": "Property transactions and legal documentation",
+          "description": ""
+        },
+        {
+          "period": "2012–2015",
+          "title": "Acquisition diligence and development agreements",
+          "description": ""
+        },
+        {
+          "period": "2015–2018",
+          "title": "Transaction structuring and commercial advisory",
+          "description": ""
+        },
+        {
+          "period": "2018–Present",
+          "title": "Co-founder and Managing Partner, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Real estate acquisitions and disposals",
+        "joint development agreements",
+        "investment structuring",
+        "development rights and land assembly",
+        "commercial negotiations",
+        "contractual risk allocation",
+        "acquisition feasibility",
+        "developer and institutional investor advisory"
+      ],
+      "sectors": "Residential, commercial, mixed-use and industrial property; land development.",
+      "research": [
+        "Real estate investment frameworks, institutional capital, joint-development risk allocation and the relationship between regulation and investment"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Dhruv Sinha",
+      "slug": "dhruv-sinha",
+      "role": "Partner | Land, Title & Property Transactions",
+      "initials": "DS",
+      "summary": "Dhruv specialises in the legal foundations of property ownership, examining historical transfers, land records, encumbrances and contractual arrangements to establish transaction risks.",
+      "bio": "Dhruv's practice is built around a fundamental question: what rights does a property owner hold, and what can legally be transferred or developed? His interests extend beyond individual title documents to the historical, administrative and contractual relationships that determine a property's status. His career developed across title investigation, acquisition diligence, commercial property documentation and lease arrangements. As a co-founder of Civantis, he leads the land and title practice, identifying ownership discrepancies, evaluating documentary evidence and translating diligence findings into contractual safeguards. He works with the transaction and planning teams where ownership intersects with development rights, access and regulatory restrictions.",
+      "experience": 16,
+      "startYear": 2010,
+      "joinYear": 2018,
+      "education": [
+        "B.A. LL.B. (Hons.) — Gujarat National Law University, Gandhinagar"
+      ],
+      "career": [
+        {
+          "period": "2010–2013",
+          "title": "Property documentation and title investigation",
+          "description": ""
+        },
+        {
+          "period": "2013–2016",
+          "title": "Acquisition diligence and ownership analysis",
+          "description": ""
+        },
+        {
+          "period": "2016–2018",
+          "title": "Commercial property transactions and contractual structuring",
+          "description": ""
+        },
+        {
+          "period": "2018–Present",
+          "title": "Co-founder and Partner, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Title investigation",
+        "historical ownership records",
+        "land acquisition documentation",
+        "encumbrances and third-party interests",
+        "easements and access rights",
+        "commercial leasing",
+        "conveyancing",
+        "transaction conditions and contractual protections"
+      ],
+      "sectors": "Land parcels, commercial offices, industrial estates, residential developments and logistics facilities.",
+      "research": [
+        "Land administration, digitisation of property records, ownership transparency, title assurance and legal certainty"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Kavya Rotta",
+      "slug": "kavya-rotta",
+      "role": "Partner | Urban Development, Planning & Regulation",
+      "initials": "KR",
+      "summary": "Kavya advises on regulatory frameworks governing land use, property development and urban transformation, examining how planning legislation and institutional requirements influence project feasibility.",
+      "bio": "Kavya works at the intersection of law, urban planning and development policy. Her career began with land-use legislation, statutory research and interpretation, later expanding into development permissions and planning-policy changes. At Civantis, she leads planning and regulatory advisory, treating regulatory assessment as an integral component of investment and development decisions. Her work connects statutory requirements with site characteristics, including permitted uses, development potential, physical constraints and approval requirements. She collaborates with the planning and transaction teams to identify regulatory risks before major commitments are made.",
+      "experience": 15,
+      "startYear": 2011,
+      "joinYear": 2019,
+      "education": [
+        "B.A. LL.B. (Hons.) — NALSAR University of Law, Hyderabad"
+      ],
+      "career": [
+        {
+          "period": "2011–2014",
+          "title": "Statutory research and land-use legislation",
+          "description": ""
+        },
+        {
+          "period": "2014–2017",
+          "title": "Planning regulation and development permissions",
+          "description": ""
+        },
+        {
+          "period": "2017–2019",
+          "title": "Regulatory advisory and development feasibility",
+          "description": ""
+        },
+        {
+          "period": "2019–Present",
+          "title": "Partner, Planning & Regulation, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Urban planning legislation",
+        "land-use regulation and conversion",
+        "zoning",
+        "FAR/FSI and development controls",
+        "statutory approvals",
+        "RERA frameworks",
+        "redevelopment regulation",
+        "regulatory feasibility",
+        "environmental regulatory interfaces"
+      ],
+      "sectors": "Urban redevelopment, residential projects, mixed-use projects, industrial development and large-scale land development.",
+      "research": [
+        "Urban governance, planning-law reform, development rights, regulatory uncertainty and urban growth institutions"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Raghav Menon",
+      "slug": "raghav-menon",
+      "role": "Counsel | Disputes, Arbitration & Commercial Risk",
+      "initials": "RM",
+      "summary": "Raghav focuses on the prevention, management and resolution of disputes arising from property transactions, development agreements and commercial relationships.",
+      "bio": "Raghav's approach begins with understanding the circumstances behind a dispute: what was agreed, what changed and which records support each position. His career developed across contractual claims, commercial disputes and property-related disagreements. At Civantis, he leads dispute assessment and resolution strategy, working with the transaction and regulatory teams to understand the legal and commercial implications of each matter. He emphasises evidence-based assessment, proportionate intervention and the evaluation of negotiated outcomes alongside formal dispute resolution mechanisms.",
+      "experience": 14,
+      "startYear": 2012,
+      "joinYear": 2020,
+      "education": [
+        "B.A. LL.B. (Hons.) — Hidayatullah National Law University, Raipur"
+      ],
+      "career": [
+        {
+          "period": "2012–2015",
+          "title": "Commercial disputes and legal research",
+          "description": ""
+        },
+        {
+          "period": "2015–2018",
+          "title": "Property claims and contractual disagreements",
+          "description": ""
+        },
+        {
+          "period": "2018–2020",
+          "title": "Dispute strategy and negotiated resolution",
+          "description": ""
+        },
+        {
+          "period": "2020–Present",
+          "title": "Counsel, Disputes & Resolution, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Real estate disputes",
+        "commercial contractual claims",
+        "construction-related disagreements",
+        "arbitration and mediation strategy",
+        "breach of contract",
+        "possession and ownership disputes",
+        "settlement negotiations",
+        "documentary evidence",
+        "dispute prevention"
+      ],
+      "sectors": "Property development, construction, commercial leasing, joint development ventures and land transactions.",
+      "research": [
+        "Alternative dispute resolution, contractual governance, construction risk allocation and the economics of property disputes"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Meera Iyer",
+      "slug": "meera-iyer",
+      "role": "Director | Urban Planning & Development Advisory",
+      "initials": "MI",
+      "summary": "Meera specialises in the spatial, institutional and economic dimensions of urban development, connecting land-use strategies and development potential with real estate investment requirements.",
+      "bio": "Meera approaches land as part of a wider urban system. Its development potential depends not only on legal status and physical characteristics, but also on infrastructure availability, accessibility, surrounding development and long-term urban change. Her career developed from spatial analysis and land development towards development feasibility, infrastructure assessment and strategic planning. At Civantis, she leads urban planning and development advisory, working with Kavya on regulatory constraints and Aditi on the development implications of acquisitions. Her contribution is to establish what a site can realistically accommodate and which planning considerations should influence development decisions.",
+      "experience": 16,
+      "startYear": 2010,
+      "joinYear": 2021,
+      "education": [
+        "Bachelor of Planning (B.Plan.) — School of Planning and Architecture, New Delhi",
+        "Master of Planning (Urban Planning) — School of Planning and Architecture, New Delhi"
+      ],
+      "career": [
+        {
+          "period": "2010–2014",
+          "title": "Spatial planning and urban development analysis",
+          "description": ""
+        },
+        {
+          "period": "2014–2018",
+          "title": "Development feasibility and infrastructure planning",
+          "description": ""
+        },
+        {
+          "period": "2018–2021",
+          "title": "Strategic planning and real estate development advisory",
+          "description": ""
+        },
+        {
+          "period": "2021–Present",
+          "title": "Director, Urban Planning & Development Advisory, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Urban planning",
+        "spatial analysis",
+        "land development feasibility",
+        "development potential",
+        "master plans",
+        "infrastructure capacity",
+        "GIS-based site analysis",
+        "redevelopment strategies",
+        "development scenarios",
+        "transit-oriented development",
+        "development impact assessment"
+      ],
+      "sectors": "Urban redevelopment, residential communities, mixed-use development, industrial townships and urban infrastructure.",
+      "research": [
+        "Urban economics, land-value capture, infrastructure-led development, spatial decision-making and computational urban planning"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Anuradha Desai",
+      "slug": "anuradha-desai",
+      "role": "Director | Real Estate Finance & Investment Advisory",
+      "initials": "AD",
+      "summary": "Anuradha specialises in the financial dimensions of real estate development, including investment appraisal, project feasibility, capital structuring and financial risk assessment.",
+      "bio": "Anuradha's interests centre on how capital influences the development of land and property. A project may be legally permissible and technically feasible while remaining financially unviable. Her approach examines acquisition costs, financing arrangements, development expenditure, market demand and expected returns. Her career developed across financial analysis, investment evaluation, real estate economics and development finance. At Civantis, she leads financial advisory, working with legal, planning and development teams to evaluate the financial implications of acquisition conditions, regulatory uncertainty and project delivery. She emphasises transparent assumptions, scenario analysis and the distinction between projected returns and associated risks.",
+      "experience": 15,
+      "startYear": 2011,
+      "joinYear": 2022,
+      "education": [
+        "B.Com. (Hons.) — Shri Ram College of Commerce, University of Delhi",
+        "Master of Business Administration (MBA) — Faculty of Management Studies, University of Delhi"
+      ],
+      "career": [
+        {
+          "period": "2011–2015",
+          "title": "Financial analysis and investment appraisal",
+          "description": ""
+        },
+        {
+          "period": "2015–2018",
+          "title": "Real estate investment and project feasibility",
+          "description": ""
+        },
+        {
+          "period": "2018–2022",
+          "title": "Development finance and capital structuring",
+          "description": ""
+        },
+        {
+          "period": "2022–Present",
+          "title": "Director, Real Estate Finance & Investment Advisory, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Real estate financial modelling",
+        "investment appraisal",
+        "discounted cash flow analysis",
+        "project feasibility",
+        "development economics",
+        "debt and equity structures",
+        "liquidity analysis",
+        "investment risk",
+        "sensitivity and scenario analysis",
+        "real estate investment vehicles"
+      ],
+      "sectors": "Commercial real estate, residential developments, industrial property, mixed-use developments and income-generating assets.",
+      "research": [
+        "Real estate capital markets, infrastructure financing, institutional investment, REITs and emerging financial technologies"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Vikram Bhatia",
+      "slug": "vikram-bhatia",
+      "role": "Director | Construction & Development Risk",
+      "initials": "VB",
+      "summary": "Vikram specialises in construction management, development delivery and project risk, examining the technical, contractual and operational factors that influence project completion.",
+      "bio": "Vikram's approach is grounded in the distinction between planning a development and delivering it. Construction costs, procurement, scheduling, design changes and stakeholder coordination influence financial performance and contractual obligations. His career developed from civil engineering and construction management towards project controls, procurement strategies and development risk. At Civantis, he leads construction and development risk advisory, collaborating with Raghav on construction disputes, Anuradha on development expenditure and Meera on implementation. His work focuses on identifying delivery risks before they become contractual, financial or operational problems.",
+      "experience": 17,
+      "startYear": 2009,
+      "joinYear": 2023,
+      "education": [
+        "B.Tech. in Civil Engineering — Indian Institute of Technology Delhi",
+        "M.Tech. in Construction Engineering and Management — Indian Institute of Technology Delhi"
+      ],
+      "career": [
+        {
+          "period": "2009–2013",
+          "title": "Civil engineering and construction execution",
+          "description": ""
+        },
+        {
+          "period": "2013–2017",
+          "title": "Project management and construction controls",
+          "description": ""
+        },
+        {
+          "period": "2017–2023",
+          "title": "Development risk and construction advisory",
+          "description": ""
+        },
+        {
+          "period": "2023–Present",
+          "title": "Director, Construction & Development Risk, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Construction management",
+        "development risk",
+        "scheduling and project controls",
+        "construction costs",
+        "procurement strategies",
+        "contractor performance",
+        "delay analysis",
+        "technical due diligence",
+        "delivery obligations",
+        "project lifecycle management"
+      ],
+      "sectors": "Commercial buildings, residential developments, industrial facilities, mixed-use projects and infrastructure construction.",
+      "research": [
+        "Construction economics, digital project delivery, building information modelling, procurement innovation and infrastructure lifecycle risk"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Naina Kapoor",
+      "slug": "naina-kapoor",
+      "role": "Associate | Regulatory Research & Legal Intelligence",
+      "initials": "NK",
+      "summary": "Naina undertakes legislative research, regulatory analysis and policy monitoring to support Civantis's property, planning and dispute advisory practices.",
+      "bio": "Naina is interested in how legislation, government policy and judicial interpretation influence real estate development. Her work examines statutory provisions, administrative notifications and regulatory documents to identify implications for individual matters. After developing a foundation in legal research and litigation support, she joined Civantis in 2023. She contributes to regulatory assessments, comparative legislative analysis and internal knowledge resources, emphasising source verification, legislative context and clear communication of complex requirements.",
+      "experience": 5,
+      "startYear": 2021,
+      "joinYear": 2023,
+      "education": [
+        "B.B.A. LL.B. (Hons.) — Symbiosis Law School, Pune"
+      ],
+      "career": [
+        {
+          "period": "2021–2023",
+          "title": "Statutory research and litigation support",
+          "description": ""
+        },
+        {
+          "period": "2023–Present",
+          "title": "Associate, Regulatory Research, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Legislative research",
+        "regulatory monitoring",
+        "judicial and administrative decisions",
+        "comparative state legislation",
+        "planning-policy research",
+        "legal memoranda",
+        "documentary chronology",
+        "regulatory knowledge management"
+      ],
+      "sectors": "Urban development regulation, real estate policy, property administration and development approvals.",
+      "research": [
+        "Regulatory transparency, digital legal research, comparative planning legislation and legal knowledge systems"
+      ],
+      "placeholder": true
+    },
+    {
+      "name": "Armaan Sharoon",
+      "slug": "armaan-sharoon",
+      "role": "Associate | Commercial Real Estate & Transactions",
+      "initials": "AS",
+      "summary": "Armaan supports commercial property transactions, lease negotiations and acquisition documentation, focusing on contractual clarity and transaction execution.",
+      "bio": "Armaan is interested in how commercial agreements translate investment intentions into enforceable rights and responsibilities. His work concentrates on contractual conditions, lease obligations, documentation requirements and completion procedures. After developing a foundation in commercial leasing and transaction support, he joined Civantis in 2024. Working alongside senior transaction professionals, he contributes to document preparation, agreement review and coordination of outstanding contractual requirements. His approach emphasises drafting precision and the commercial implications of individual provisions.",
+      "experience": 4,
+      "startYear": 2022,
+      "joinYear": 2024,
+      "education": [
+        "B.A. LL.B. (Hons.) — Institute of Law, Nirma University, Ahmedabad"
+      ],
+      "career": [
+        {
+          "period": "2022–2024",
+          "title": "Commercial leasing and transaction support",
+          "description": ""
+        },
+        {
+          "period": "2024–Present",
+          "title": "Associate, Real Estate, Civantis",
+          "description": ""
+        }
+      ],
+      "focus": [
+        "Commercial leases",
+        "acquisition documentation",
+        "contract drafting and review",
+        "lease covenants",
+        "conditions precedent",
+        "completion checklists",
+        "transaction coordination"
+      ],
+      "sectors": "Commercial offices, retail property, industrial facilities, logistics and warehousing.",
+      "research": [
+        "Commercial lease structures, contractual automation, transaction efficiency and real estate legal technology"
+      ],
+      "placeholder": true
+    }
+  ],
+  "formEndpoint": "",
+  "siteUrl": "https://civantis.in",
+  "jurisdiction": {
+    "state": "",
+    "city": "",
+    "authority": "",
+    "masterPlan": "",
+    "developmentRegulations": "",
+    "buildingByeLaws": ""
+  },
+  "services": [
+    {
+      "title": "Real Estate Transactions",
+      "slug": "zoning-land-use",
+      "heading": "Clarity in the transaction.",
+      "description": "Property acquisitions, disposals and leases bring legal rights, documentation and commercial objectives together. Civantis examines those elements in the context of the transaction.",
+      "items": [
+        "Acquisitions and disposals",
+        "Sale and conveyance documentation",
+        "Commercial leasing",
+        "Conditions precedent and completion",
+        "Transaction risk allocation"
+      ]
+    },
+    {
+      "title": "Development & Joint Ventures",
+      "slug": "development-feasibility",
+      "heading": "A shared development objective.",
+      "description": "Development arrangements depend on a clear understanding of land rights, contributions, responsibilities and the commercial expectations of the parties.",
+      "items": [
+        "Joint development agreements",
+        "Landowner–developer arrangements",
+        "Development rights and obligations",
+        "Project milestones and risk allocation",
+        "Exit and termination provisions"
+      ]
+    },
+    {
+      "title": "Regulatory & RERA Matters",
+      "slug": "regulatory-approvals",
+      "heading": "The regulatory context of development.",
+      "description": "Real estate development engages statutory obligations, administrative processes and relationships between promoters and purchasers. The applicable framework depends on the project and jurisdiction.",
+      "items": [
+        "Project compliance review",
+        "Promoter and allottee documentation",
+        "Regulatory notices and responses",
+        "Authority process and submission strategy",
+        "Coordination with technical consultants"
+      ]
+    },
+    {
+      "title": "Land Use & Planning Law",
+      "slug": "building-regulations",
+      "heading": "Law in the context of place.",
+      "description": "The legal status of land and its development potential are shaped by planning designations, statutory controls and the characteristics of the site.",
+      "items": [
+        "Zoning and permitted use",
+        "Master-plan interpretation",
+        "Development control requirements",
+        "Land-use change processes",
+        "Building regulation interfaces"
+      ]
+    },
+    {
+      "title": "Title & Property Due Diligence",
+      "slug": "land-due-diligence",
+      "heading": "Understanding the rights in land.",
+      "description": "A property decision requires an understanding of the rights that can be transferred, the interests affecting them and the reliability of the underlying records.",
+      "items": [
+        "Chain of title review",
+        "Encumbrances and third-party interests",
+        "Land and revenue records",
+        "Document and information requisitions",
+        "Diligence findings and transaction conditions"
+      ]
+    },
+    {
+      "title": "Property Disputes & Resolution",
+      "slug": "urban-planning",
+      "heading": "The facts behind a disagreement.",
+      "description": "Property disputes often arise from differing interpretations of rights, contracts, obligations or the circumstances of development and occupation.",
+      "items": [
+        "Ownership and possession disputes",
+        "Development agreement disagreements",
+        "Lease and occupation disputes",
+        "Contractual claims and notices",
+        "Negotiation and dispute strategy"
+      ]
+    }
+  ]
+}

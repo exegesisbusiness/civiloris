@@ -1,0 +1,177 @@
+{
+  "pages": {
+    "zoning-land-use": {
+      "title": "Real Estate Transactions",
+      "headline": "Real estate transactions.",
+      "intro": "Property acquisitions, disposals and leases bring legal rights, documentation and commercial objectives together. Civantis examines those elements in the context of the transaction.",
+      "topics": [
+        {
+          "title": "Before commitment",
+          "body": "Review the property, parties, available records and material conditions before contractual commitments are made."
+        },
+        {
+          "title": "Agreements and obligations",
+          "body": "Consider sale and conveyance documentation, commercial leases, representations, covenants and allocation of risk."
+        },
+        {
+          "title": "Completion",
+          "body": "Identify conditions precedent, outstanding documents and contractual steps relevant to completion."
+        }
+      ],
+      "people": [
+        "aditi-malhotra",
+        "dhruv-sinha",
+        "armaan-sharoon"
+      ]
+    },
+    "development-feasibility": {
+      "title": "Development & Joint Ventures",
+      "headline": "Development agreements and joint ventures.",
+      "intro": "Development arrangements depend on a clear understanding of land rights, contributions, responsibilities and the commercial expectations of the parties.",
+      "topics": [
+        {
+          "title": "Development arrangements",
+          "body": "Consider joint development agreements, landowner–developer arrangements and the allocation of development rights."
+        },
+        {
+          "title": "Delivery and economics",
+          "body": "Examine milestones, capital obligations, dependencies and the relationship between contractual commitments and project feasibility."
+        },
+        {
+          "title": "Managing change",
+          "body": "Review mechanisms for delay, variation, default, termination and exit in the context of the agreement."
+        }
+      ],
+      "people": [
+        "aditi-malhotra",
+        "dhruv-sinha",
+        "anuradha-desai",
+        "vikram-bhatia",
+        "meera-iyer"
+      ]
+    },
+    "regulatory-approvals": {
+      "title": "Regulatory & RERA Matters",
+      "headline": "The regulatory context of development.",
+      "intro": "Real estate development engages statutory obligations, administrative processes and relationships between promoters and purchasers. The applicable framework depends on the project and jurisdiction.",
+      "topics": [
+        {
+          "title": "Project requirements",
+          "body": "Identify the applicable statutory framework, project documentation and issues relevant to registration or compliance."
+        },
+        {
+          "title": "Promoter and allottee matters",
+          "body": "Consider agreements, disclosures, contractual obligations and the relationship between the parties."
+        },
+        {
+          "title": "Regulatory correspondence",
+          "body": "Review notices, responses, documentary requirements and the sequencing of relevant authority processes."
+        }
+      ],
+      "people": [
+        "kavya-rotta",
+        "naina-kapoor",
+        "aditi-malhotra"
+      ]
+    },
+    "building-regulations": {
+      "title": "Land Use & Planning Law",
+      "headline": "Land use and planning law.",
+      "intro": "The legal status of land and its development potential are shaped by planning designations, statutory controls and the characteristics of the site.",
+      "topics": [
+        {
+          "title": "Planning framework",
+          "body": "Examine master plans, zoning, permitted uses and the applicable development control framework."
+        },
+        {
+          "title": "Development potential",
+          "body": "Consider building restrictions, land-use change, infrastructure requirements and the interaction between planning and project feasibility."
+        },
+        {
+          "title": "Implementation",
+          "body": "Identify the relevant authority processes and legal questions that need to be resolved before development decisions progress."
+        }
+      ],
+      "people": [
+        "kavya-rotta",
+        "meera-iyer",
+        "naina-kapoor",
+        "vikram-bhatia"
+      ]
+    },
+    "land-due-diligence": {
+      "title": "Title & Property Due Diligence",
+      "headline": "Title and property due diligence.",
+      "intro": "A property decision requires an understanding of the rights that can be transferred, the interests affecting them and the reliability of the underlying records.",
+      "topics": [
+        {
+          "title": "Ownership history",
+          "body": "Examine the chain of title and relevant land, revenue and registration records."
+        },
+        {
+          "title": "Third-party interests",
+          "body": "Review encumbrances, easements, possession issues, contractual rights and material discrepancies."
+        },
+        {
+          "title": "Transaction implications",
+          "body": "Identify gaps in information, further documentary requirements and implications for contractual safeguards or conditions."
+        }
+      ],
+      "people": [
+        "dhruv-sinha",
+        "aditi-malhotra",
+        "armaan-sharoon"
+      ]
+    },
+    "urban-planning": {
+      "title": "Property Disputes & Resolution",
+      "headline": "Property disputes and resolution.",
+      "intro": "Property disputes often arise from differing interpretations of rights, contracts, obligations or the circumstances of development and occupation.",
+      "topics": [
+        {
+          "title": "Assess the position",
+          "body": "Establish the relevant agreements, chronology, documentary evidence and competing positions."
+        },
+        {
+          "title": "Evaluate options",
+          "body": "Consider contractual remedies, negotiation, mediation, arbitration or other appropriate dispute mechanisms in context."
+        },
+        {
+          "title": "Commercial implications",
+          "body": "Examine the implications of delay, cost and uncertainty for the parties and the property concerned."
+        }
+      ],
+      "people": [
+        "raghav-menon",
+        "vikram-bhatia",
+        "dhruv-sinha"
+      ]
+    },
+    "experience": {
+      "title": "Professional Scope",
+      "headline": "The scope of our practice.",
+      "intro": "The scope of Civantis’s practice ranges from property transactions and development arrangements to regulatory questions and disputes. The areas below describe types of matters, rather than completed client engagements.",
+      "topics": [
+        {
+          "title": "Transactions and title",
+          "body": "Property acquisitions, ownership investigations, commercial leasing and contractual documentation."
+        },
+        {
+          "title": "Development and regulation",
+          "body": "Joint development arrangements, statutory requirements, planning controls and development feasibility."
+        },
+        {
+          "title": "Disputes and risk",
+          "body": "Property and contractual disagreements, construction-related issues and assessment of potential resolution pathways."
+        }
+      ],
+      "people": [
+        "aditi-malhotra",
+        "dhruv-sinha",
+        "kavya-rotta",
+        "raghav-menon"
+      ]
+    }
+  },
+  "sectors": []
+}
