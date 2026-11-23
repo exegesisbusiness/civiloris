@@ -2,7 +2,7 @@
 <title id="title">Conceptual property and legal process illustration for The property, the documents, the decision</title>
 <defs><pattern id="draft" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d3d0c6" stroke-width=".7"/></pattern></defs>
 <rect width="1200" height="675" fill="#f0eee8"/><rect x="0" y="0" width="810" height="675" fill="url(#draft)"/>
-<text x="70" y="78" fill="#746b3f" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">CIVANTIS / PROPERTY + LAW</text>
+<text x="70" y="78" fill="#746b3f" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">CIVILORIS / PROPERTY + LAW</text>
 <path d="M70 105H745" stroke="#aca99e" stroke-width="1"/>
 <g transform="rotate(-7 400 375)"><rect x="168" y="205" width="235" height="160" fill="#edeae2" stroke="#515b54" stroke-width="2"/><rect x="414" y="200" width="212" height="160" fill="#dedbd0" stroke="#515b54" stroke-width="2"/><rect x="280" y="375" width="260" height="155" fill="#eae8e0" stroke="#515b54" stroke-width="2"/><g transform="translate(194,231)"><circle r="7" fill="#bcab54"/><path d="M12 0h65" stroke="#827c60" stroke-width="1"/></g><g transform="translate(440,226)"><circle r="7" fill="#bcab54"/><path d="M12 0h65" stroke="#827c60" stroke-width="1"/></g></g>
 <path d="M100 555 315 505 487 568 707 491" fill="none" stroke="#c7b451" stroke-width="8" opacity=".45"/>

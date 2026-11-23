@@ -1,5 +1,5 @@
-/* Civantis finishing pass — four images, restrained editorial hierarchy.
-   Scoped to v21-c. Does not style Avenor or the rest of Civantis. */
+/* Civiloris finishing pass — four images, restrained editorial hierarchy.
+   Scoped to v21-c. Does not style Norvelian or the rest of Civiloris. */
 #root .v21-c{--c-ink:#21231f;--c-yellow:#e8c547;--c-paper:#f6f7f3;
  display:grid;grid-template-columns:minmax(0,.83fr) minmax(0,1.17fr);
  min-width:0;margin:0;min-height:410px;background:var(--c-paper);color:var(--c-ink);

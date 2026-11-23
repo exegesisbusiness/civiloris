@@ -8,7 +8,7 @@ const articles=(raw.articles as Article[]).slice().sort((a,b)=>b.date.localeComp
 const themes=raw.themes;
 const base=import.meta.env.BASE_URL;
 const href=(p:string)=>base+p+'/';
-const isA=c.key==='avenor';
+const isA=c.key==='norvelian';
 const label=isA?'Insights':'Perspectives';
 export const hasInsights=(route:string)=>route==='insights'||articles.some(a=>route==='insights/'+a.slug);
 const formatDate=(s:string)=>new Intl.DateTimeFormat('en-GB',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(s+'T00:00:00Z'));

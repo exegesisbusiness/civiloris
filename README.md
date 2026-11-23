@@ -1,4 +1,4 @@
-# Civantis website
+# Civiloris website
 
 Independent React + TypeScript + Vite project with Tailwind CSS and Lucide icons. The local Noida photograph is illustrative (see IMAGE-CREDITS.md); fonts load from Google Fonts. No analytics, credentials, tracking or document storage are included.
 
@@ -16,7 +16,7 @@ With an empty `formEndpoint` and `email`, validation works but nothing is sent. 
 
 ## GitHub Pages
 
-Create a separate GitHub repository named `civantis-website`; add these files and push to main. Under Settings → Pages choose GitHub Actions. The supplied workflow builds and deploys the `dist` artifact. For repository hosting set repository variables `VITE_BASE_PATH` to `/civantis-website/` and `SITE_URL` to `https://YOUR-ACCOUNT.github.io/civantis-website`. For root-domain hosting set `VITE_BASE_PATH` to `/`. GitHub Pages serves the generated directory entrypoints, including direct deep links. Never commit secrets or node_modules.
+Create a separate GitHub repository named `civiloris-website`; add these files and push to main. Under Settings → Pages choose GitHub Actions. The supplied workflow builds and deploys the `dist` artifact. For repository hosting set repository variables `VITE_BASE_PATH` to `/civiloris-website/` and `SITE_URL` to `https://YOUR-ACCOUNT.github.io/civiloris-website`. For root-domain hosting set `VITE_BASE_PATH` to `/`. GitHub Pages serves the generated directory entrypoints, including direct deep links. Never commit secrets or node_modules.
 
 ## Custom domain and HTTPS
 

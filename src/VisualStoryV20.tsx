@@ -19,7 +19,7 @@ const graphics: Record<string, Graphic> = {
       "Framework"
     ],
     "photo": "c1",
-    "alt": "Illustrative architectural image of a modern institutional building with a yellow entrance; not Civantis's office"
+    "alt": "Illustrative architectural image of a modern institutional building with a yellow entrance; not Civiloris's office"
   },
   "services": {
     "label": "AREAS OF COUNSEL",
@@ -111,10 +111,10 @@ const graphics: Record<string, Graphic> = {
   }
 };
 const photos: Record<string, string> = {
-  "c1": "civantis-c1-784e7bf19235.jpg",
-  "c2": "civantis-c2-75f5e82b54b2.jpg",
-  "c3": "civantis-c3-c6d2675549b2.jpg",
-  "c4": "civantis-c4-4b24b481d780.jpg"
+  "c1": "civiloris-c1-784e7bf19235.jpg",
+  "c2": "civiloris-c2-75f5e82b54b2.jpg",
+  "c3": "civiloris-c3-c6d2675549b2.jpg",
+  "c4": "civiloris-c4-4b24b481d780.jpg"
 };
 const base = import.meta.env.BASE_URL;
 
@@ -122,7 +122,7 @@ export default function VisualStoryV20({route}:{route:string}) {
   const g = graphics[route];
   if (!g) return null;
   const photoFile = g.photo ? photos[g.photo] : undefined;
-  return <section className={`v20-story v20-c v21-c v21-c--${route}`} aria-label={`${g.label.toLowerCase()} — Civantis editorial section`}>
+  return <section className={`v20-story v20-c v21-c v21-c--${route}`} aria-label={`${g.label.toLowerCase()} — Civiloris editorial section`}>
     <div className="v21-c-copy">
       <p className="v21-c-kicker">{g.label}</p>
       <h2>{g.title}</h2>

@@ -46,7 +46,7 @@
 #root .ins-mast{padding:38px 6%}
 #root .n19-portfolio-focus{grid-template-columns:1fr;gap:14px;padding:30px 6%}
 }
-/* Civantis — editorial portraits, practice index and shorter sections */
+/* Civiloris — editorial portraits, practice index and shorter sections */
 #root .cv7-tier-0 .cv4-person{grid-template-columns:minmax(150px,280px) minmax(0,1fr)}
 #root .cv7-tier-1 .cv4-person{grid-template-columns:minmax(140px,225px) minmax(0,1fr)}
 #root .cv7-tier-2 .cv4-person,#root .cv7-tier-3 .cv4-person,#root .cv7-tier-4 .cv4-person{grid-template-columns:minmax(120px,175px) minmax(0,1fr);gap:clamp(20px,4vw,55px)}

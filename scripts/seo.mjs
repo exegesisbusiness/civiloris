@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
-const c=read('src/config.json'), a=c.key==='avenor';
+const c=read('src/config.json'), a=c.key==='norvelian';
 const expertise=read('src/expertise-v13.json'), published=read('src/published-insights.json');
 const routes=new Map();
 function add(p,t,d){if(p!==''&&!/^[a-z0-9-]+(?:\/[a-z0-9-]+)*$/.test(p))throw Error('Invalid route: '+p);routes.set(p,[String(t),String(d||c.intro)]);}
@@ -10,7 +10,7 @@ add('','Home',c.intro);add('about',a?'Our firm':'The firm',c.intro);add('team','
 for(const p of c.leadership)add('team/'+p.slug,p.name,`${p.name} — ${p.role} at ${c.name}.`);
 if(!a)add('services','Our practice',c.intro);
 for(const s of c.services)add(s.slug,s.title,s.description);
-if(a){add('portfolio','Portfolio','Avenor’s real estate investment sectors and asset perspectives.');add('investor-relations','Investor relations','Institutional and strategic partnership enquiries.');}
+if(a){add('portfolio','Portfolio','Norvelian’s real estate investment sectors and asset perspectives.');add('investor-relations','Investor relations','Institutional and strategic partnership enquiries.');}
 for(const [p,d] of Object.entries(expertise.pages))add(p,d.title,d.intro);
 add('insights',a?'Insights':'Perspectives',a?'Perspectives on real estate investment and asset stewardship.':'Perspectives on property law, regulation and development.');
 for(const item of published.articles)add('insights/'+item.slug,item.title,item.summary);
